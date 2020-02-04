@@ -1,0 +1,22 @@
+input {
+	width: 500px;
+	height: 500px;
+	padding: 10px;
+	background: white;
+	border-style: double;
+	object-fit: cover;
+}
+
+.info-box {
+	width: 500px;
+	height: 50px;
+	text-align: center;
+}
+
+.place-name {
+	font-size: 12px;
+}
+
+.photo-by {
+	font-size: 8px;
+}
